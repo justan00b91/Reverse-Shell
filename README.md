@@ -10,7 +10,7 @@
    On Attacker machine:
    
   ```bash
-  python attacker.py
+  $ python attacker.py
    ____                                   ____  _          _ _    
   |  _ \ _____   _____ _ __ ___  ___     / ___|| |__   ___| | |   
   | |_) / _ \ \ / / _ \ '__/ __|/ _ \____\___ \| '_ \ / _ \ | |   
@@ -24,7 +24,7 @@
    On Victim Machine:
    
   ```bash
-  python victim.py
+  $ python victim.py
   ```
  
  * ## Description:
