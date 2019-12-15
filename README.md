@@ -7,20 +7,22 @@
   ```
   
 * ## Usage:
-  ** On Attacker machine:
+   On Attacker machine:
+   
   ```bash
   python attacker.py
- ____                                   ____  _          _ _    
-|  _ \ _____   _____ _ __ ___  ___     / ___|| |__   ___| | |   
-| |_) / _ \ \ / / _ \ '__/ __|/ _ \____\___ \| '_ \ / _ \ | |   
-|  _ <  __/\ V /  __/ |  \__ \  __/_____|__) | | | |  __/ | |_  
-|_| \_\___| \_/ \___|_|  |___/\___|    |____/|_| |_|\___|_|_(_)
+   ____                                   ____  _          _ _    
+  |  _ \ _____   _____ _ __ ___  ___     / ___|| |__   ___| | |   
+  | |_) / _ \ \ / / _ \ '__/ __|/ _ \____\___ \| '_ \ / _ \ | |   
+  |  _ <  __/\ V /  __/ |  \__ \  __/_____|__) | | | |  __/ | |_  
+  |_| \_\___| \_/ \___|_|  |___/\___|    |____/|_| |_|\___|_|_(_)
 
-Connected to xxx.xxx.xxx.xxx@hostname
-$ ++++Execute your commands here.++++
+  Connected to xxx.xxx.xxx.xxx@hostname
+  $ ++++Execute your commands here.++++
   ```
   
-  ** On Victim Machine:
+   On Victim Machine:
+   
   ```bash
   python victim.py
   ```
