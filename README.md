@@ -28,10 +28,12 @@
   ```
  
  * ## Description:
-  The "victim.py" file, when executed togather, create a reverse shell 
-  on the victim's machine and connects it to the attacker machine 
-  who has access to all the data on the victim's machine via commandline.
-  The attacker is required to be on the same network as the victim and 
-  change the ip address of the server with his/her own's.
+  The "victim.py" file, when executed togather, create a
+  reverse shell  on the victim's machine and connects 
+  it to the attacker machine  who has access to all
+  the data on the victim's machine via commandline.
+  The attacker is required to be on the same network as
+  the victim and  change the ip address of the
+  server with his/her own's.
   
   
