@@ -3,7 +3,7 @@ import subprocess
 import sys
 import os
 
-host = "192.168.43.73"
+host = "Your IP Address"
 port = 5007
 size = 2048 #buffer size
 
